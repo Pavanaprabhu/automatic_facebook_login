@@ -1,5 +1,5 @@
 # automatic_fb_loginn
-
+This is a simple python project which allows you to login to your facebook account automatically.
 
 Pre-requisite :
 You need to download chrome webdriver(a zip file) ,
